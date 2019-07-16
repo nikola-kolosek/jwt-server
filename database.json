@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Spaghetti & meatballs",
+      "name": "Spaghetti & Meatballs",
       "cost": 10,
       "quantity": 1000,
       "locationId": 1,

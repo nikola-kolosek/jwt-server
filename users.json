@@ -4,6 +4,7 @@
     { "id": 2, "email": "admin@kolosek.com", "password": "admin" },
     { "id": 3, "email": "release@kolosek.com", "password": "kolosek" },
     { "id": 4, "email": "test@user.com", "password": "password" },
-    { "id": 5, "email": "nikola@kolosek.com", "password": "password" }
+    { "id": 5, "email": "nikola@kolosek.com", "password": "password" },
+    { "id": 6, "email": "admin@email.com", "password": "admin" }
   ]
 }
